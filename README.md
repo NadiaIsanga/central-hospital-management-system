@@ -3,7 +3,6 @@
 
 This project presents a SQL-based hospital management database system designed to improve care for chronic illnesses in Uganda. It consolidates patient records, appointments, emergency services, and public health reporting into a centralized platform to streamline hospital operations and decision-making.
 
----
 
 ## 📌 Summary
 
@@ -11,13 +10,12 @@ Designed and implemented a relational database for managing patient care, appoin
 Used MySQL Workbench for schema design and SQL for querying real-world healthcare insights.  
 The system supports referral matching, ICU resource allocation, public health analytics, and appointment tracking.
 
----
+
 
 ## 🛠️ Skills Used
 
 - **SQL**
 
----
 
 ## 🔍 Key Functional Queries
 
@@ -36,7 +34,7 @@ The system supports referral matching, ICU resource allocation, public health an
 - **Identify patient follow-up gaps:**  
   Detects active chronic patients without upcoming appointments.
 
----
+
 
 ## 🚀 How to Use
 
@@ -45,7 +43,6 @@ The system supports referral matching, ICU resource allocation, public health an
 3. Populate sample data (already included).
 4. Execute queries to generate insights for healthcare planning.
 
----
 
 
 
