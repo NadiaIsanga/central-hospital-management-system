@@ -1,10 +1,10 @@
 # central-hospital-management-system
-# 🏥 Centralized Hospital Management System for Chronic Illness Management
+#  Centralized Hospital Management System for Chronic Illness Management
 
 This project presents a SQL-based hospital management database system designed to improve care for chronic illnesses in Uganda. It consolidates patient records, appointments, emergency services, and public health reporting into a centralized platform to streamline hospital operations and decision-making.
 
 
-## 📌 Summary
+##  Summary
 
 Designed and implemented a relational database for managing patient care, appointments, emergencies, and chronic illness reporting.  
 Used MySQL Workbench for schema design and SQL for querying real-world healthcare insights.  
@@ -12,12 +12,12 @@ The system supports referral matching, ICU resource allocation, public health an
 
 
 
-## 🛠️ Skills Used
+## Skills Used
 
 - **SQL**
 
 
-## 🔍 Key Functional Queries
+## Key Functional Queries
 
 - **Detect frequent emergency patients:**  
   Identifies patients who accessed emergency services multiple times in one month.
@@ -36,7 +36,7 @@ The system supports referral matching, ICU resource allocation, public health an
 
 
 
-## 🚀 How to Use
+##  How to Use
 
 1. Open the `.sql` file in MySQL Workbench.
 2. Run schema creation statements to build the database.
